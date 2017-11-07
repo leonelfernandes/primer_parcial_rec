@@ -26,8 +26,8 @@
 	<div class="table-responsive"> 
     <table class="table table-bordered table-striped"> 
          <tbody> 
-	Tabla con una grilla
-	
+tabla
+	<a> Tabla </a>
          <tr> <th>celda</th> </tr>
                               </tbody> 
                        
