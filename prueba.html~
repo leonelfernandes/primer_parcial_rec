@@ -18,15 +18,15 @@
     <![endif]-->
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Parcial Practica Profesional!</h1>
 
-<a href="https://www.softwarelibre.com.ar/moodle/mod/assign/view.php?id=593&action=editsubmission" class="btn btn-danger" role="button">Enlace</a>
+<a href="https://www.softwarelibre.com.ar/moodle/mod/assign/view.php?id=593&action=editsubmission" class="btn btn-danger" role="button">Examen</a>
 
 	<div class="table-responsive"> 
     <table class="table table-bordered table-striped"> 
          <tbody> 
 	<tr>
-	Tabla con una grilla
+	Grilla con una celda
 	<th>celda</th> 
 	</tr>
          </tbody> 
